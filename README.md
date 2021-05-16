@@ -1,3 +1,4 @@
+
 # Word-Puzzle-Solver-using-CNN-and-OpenCV
 
 ### How to use?
@@ -19,4 +20,5 @@ Random test dataset - https://www.kaggle.com/pranavp1999/testing-images
 
 ## Output
 
+https://user-images.githubusercontent.com/63160036/118399732-2baead80-b67c-11eb-95ea-50a91fa929ce.mp4
 
