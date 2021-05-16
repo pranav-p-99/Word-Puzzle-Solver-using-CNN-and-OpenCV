@@ -19,5 +19,4 @@ Random test dataset - https://www.kaggle.com/pranavp1999/testing-images
 
 ## Output
 
-https://user-images.githubusercontent.com/63160036/118399661-d4104200-b67b-11eb-8e3f-31c7196681b1.mp4
 
