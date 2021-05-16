@@ -10,8 +10,11 @@
 ### Dataset
 * Few images are collected from the Chars74k dataset.
 * Remaining images are mannualy created using the ``generate_data.py`` script.
+
 Chars74k Dataset - http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+
 Dataset used for training & validation- https://www.kaggle.com/pranavp1999/computer-generated-alphabet-dataset
+
 Random test dataset - https://www.kaggle.com/pranavp1999/testing-images
 
 ## Output
