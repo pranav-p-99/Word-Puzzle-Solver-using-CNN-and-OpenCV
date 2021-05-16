@@ -1,10 +1,20 @@
 # Word-Puzzle-Solver-using-CNN-and-OpenCV
 
-Download Dataset : https://www.kaggle.com/pranavp1999/computer-generated-alphabet-dataset
-
 ### How to use?
 1) Download & extract repository.
 2) Open command prompt.
 3) Create virtual environment.
 4) Install all dependencies - ``pip install -r requirements.txt''
 5) Run main.py - ``python main.py``
+
+### Dataset
+* Few images are collected from the Chars74k dataset.
+* Remaining images are mannualy created using the ``generate_data.py`` script.
+Chars74k Dataset - http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+Dataset used for training & validation- https://www.kaggle.com/pranavp1999/computer-generated-alphabet-dataset
+Random test dataset - https://www.kaggle.com/pranavp1999/testing-images
+
+## Output
+
+https://user-images.githubusercontent.com/63160036/118399661-d4104200-b67b-11eb-8e3f-31c7196681b1.mp4
+
